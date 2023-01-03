@@ -4,14 +4,12 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Robotron 2000**
 | :label: Tecnologias | javascript, html, css
-| :rocket: URL         | https://eden-daniel.github.io/Mochila-De-Viagem//
+| :rocket: URL         | https://eden-daniel.github.io/Robotron/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://raw.githubusercontent.com/Eden-Daniel/Mochila-De-Viagem/main/mochila%20cover.png)
+![](https://raw.githubusercontent.com/Eden-Daniel/Robotron/main/capa-vitrinedev.png)
 
 ## Sobre o projeto
-Projeto desenvolvido durante um curso do Alura onde aprendi mais sobre armazenamentos de dados no navegador.
-
-Podemos adicionar itens e sua quantidade, onde podemos atualizar a quantidade sobrescrevendo o mesmo item, a também como deletar um item errado que não seja mais necessário, tudo armazenado na máquina local.
+Projeto desenvolvido durante um curso do Alura onde aprendi mais sobre manipulação do DOM, onde alteramos valores de peças e adicionamos  ou removemos atributos de um robô.
 
 Acima está a url para testar.
